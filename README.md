@@ -1,0 +1,1 @@
+I did the "StudentAttendanceManagementSystem" project for my Object Oriented Concept course...I had to implement the OOP core concepts on a simple project... I also implemented simple gui for better understanding
